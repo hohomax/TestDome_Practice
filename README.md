@@ -1,2 +1,2 @@
 # TestDome_Practice
-Testdome.com Pratice
+Testdome.com Practice
